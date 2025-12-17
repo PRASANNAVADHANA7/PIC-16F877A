@@ -9,7 +9,6 @@
  *           It then enters an infinite loop where the LED is turned on and off with 500ms delays.
  */
 
-#include <xc.h>
 #include "io.h"
 #include "delay.h"
 
